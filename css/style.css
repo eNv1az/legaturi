@@ -1,3 +1,8 @@
 body{
-    background-color: khaki;
+    background-color: #74b3ce;
+}
+#i1{
+    width: 500px;
+    margin: 0px auto;
+    display: block;
 }
